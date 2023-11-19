@@ -1,0 +1,11 @@
+
+
+#todayCity {
+    display: inline-block;
+}
+
+#icon {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    height: 40px;
+}
