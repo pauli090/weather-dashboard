@@ -4,8 +4,28 @@
     display: inline-block;
 }
 
-#icon {
+.icon {
     display: inline-block;
     margin-bottom: 0.5rem;
     height: 40px;
+    width: auto;
+}
+
+.input-group {
+    display: flex;
+    padding: 10px;
+}
+
+.search-input {
+    align-items: center;
+}
+
+.input-group-append {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+#search-button {
+    align-items: center;
 }
